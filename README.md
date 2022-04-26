@@ -43,8 +43,7 @@ Each entity or individual that makes its digital information on Covid-19
 publicly available for consultation and analysis within the framework of
 the museum automatically becomes a member. The integration of these
 collections is made possible through the installation of software
-developed by the Covid-19 Museum Foundation ([CaMPA]), the museum’s
-parent organization. 
+developed by the Covid-19 Museum, named the [CaMPA] and based on Harvard Dataverse. 
 
 ### Construction of the museum 
 
@@ -53,8 +52,7 @@ Covid-19 Museum revolves around the manufacture of a piece, or “brick,”
 of open source code that provides the interfacing software for the
 collections made available by museum members and for the computing
 resources provided by institutional members and by members of the
-general public who agree to make their computers available when the
-machines are “sleeping.” 
+general public who agree to make part of their computer ressources available to the Museum. 
 
 The deployment of the code to entities and
 individuals with archiving or computing capacity serves as a foundation
@@ -67,7 +65,7 @@ The Covid-19 Museum’s interface allows the
 public to consult the digital artifacts on the Covid-19 pandemic in the
 collection of members in accordance with the members’ own museography
 and keywords. It also offers the possibility of accessing all the
-available data through museum keywords. 
+available data through museum keywords by developping a meta-ontology. 
 
 The interface establishes that
 through this gateway the Covid-19 Museum is operated by the actor who
