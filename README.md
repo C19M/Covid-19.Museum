@@ -1,6 +1,6 @@
 # Covid-19 Museum
 
-This is the readme of Covid-19 Museum public folder
+This is the readme of the Covid-19 Museum project
 
 ## Introduction
 
