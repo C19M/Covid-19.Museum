@@ -1,8 +1,8 @@
-#Covid-19 Museum
+# Covid-19 Museum
 
 This is the readme of Covid-19 Museum public folder
 
-##Introduction
+## Introduction
 
 **Digitally connecting data collections related to the Covid-19 pandemic
 to preserve their content and realize reproducible analysis of it
