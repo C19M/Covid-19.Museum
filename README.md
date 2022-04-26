@@ -104,3 +104,5 @@ Europeans adopted museum to express the concept of comprehensiveness,
 not a physical structure. The Covid-19 Museum seeks, in effect, to
 create an electronic version of the Alexandrian Museum that focuses on
 the pandemic that is today reshaping the world.
+
+*more documents can be found on* [Covid-19 Museum web pages](https://covid-19.museum).
