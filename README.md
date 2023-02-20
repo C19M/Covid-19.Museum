@@ -105,4 +105,13 @@ not a physical structure. The Covid-19 Museum seeks, in effect, to
 create an electronic version of the Alexandrian Museum that focuses on
 the pandemic that is today reshaping the world.
 
+## The Rationale behind a 'macroscope' into the museum's collection 
+
+The retrospective of the timeline in the Now.museum (case COVID19museum) initiated from the discovery of the SARS-Cov-2 in December 2019. The data collection was primarily done from public parts (PP) of European newspapers articles in their published language with original illustrations and extended with some tweets available from public Twitter datasets, filtered out by searching keywords “covid” and “pandemic” in the title. Public metadata contains title, summary (a few first lines of text), url and date of publication, with captured screenshot of news article attached and without breaking any copyrights and affecting ownership of original publishers. All collections are stored in a Dataverse instance running at the University of Paris Cite, connected to the automatic pipeline for metadata enrichment extracting important keywords and terms appearing in the texts.
+
+The Now.museum offers public free web access and will be available through https protocol and as an independent software on several platforms including recent Linux Ubuntu and MacOS X distributions. Our vision is to build an Artificial Intelligence infrastructure integrated with a data repository by using Semantic Web technologies. It should consist completely from Open Source components and use open Machine Learning models developed by various parties coming both from academic and industry. All data curated and published using the Dataverse data platform developed by Harvard IQSS and provided as a service that allows to keep provenance information for every single data point. Professional users such as students of Universities or scientific staff should be able to use Virtual Research Environments (VRE), notebooks such as Jupyter Notebook and other software to connect to now.museum to query and search public metadata available in our Dataverse instances.  
+ 
+The final goal is the semantic integration of Medical, Social and Economic Knowledge Graphs to make it possible to understand not only Biological and Environmental Factors of COVID-19 spread but the Social and Economic impacts as well, and investigate how quarantine and social distancing measures affected the society. The access to all available knowledge graphs delivered by appropriate semantic services with SPARQL endpoint and exposed as Linked Data in the same way as Wikidata.  
+
+
 *more documents can be found on* [Covid-19 Museum web pages](https://covid-19.museum).
